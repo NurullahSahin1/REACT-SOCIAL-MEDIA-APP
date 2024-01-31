@@ -10,4 +10,4 @@ In the later stages of the project, I plan to turn it into a site structure wher
 
 <h3>Screenshot</h3>
 
-[](Sahinsocial.gif)
+![](Sahinsocial.gif)
