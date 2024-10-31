@@ -1,0 +1,75 @@
+# OSX
+.DS_Store
+
+# Kullanıcıya özel dosyalar
+.CFUserTextEncoding
+.zprofile
+.zsh_history
+.zsh_sessions/
+.viminfo
+
+# Global klasörler
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+
+# Android/IntelliJ
+build/
+.idea
+.gradle
+.cxx/
+*.keystore
+!debug.keystore
+
+# Xcode
+build/
+DerivedData/
+*.hmap
+*.ipa
+xcuserdata
+*.xccheckout
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+**/.xcode.env.local
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ruby / CocoaPods
+**/Pods/
+/vendor/bundle/
+
+# Metro
+.metro-health-check*
+
+# Testing
+/coverage
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Eklenen diğer klasörler
+.anydesk/
+.bundle/
+.cocoapods/
+.gem/
+.local/
+.rbenv/
+.reactnavigation/
+.swiftpm/
+.vscode/
